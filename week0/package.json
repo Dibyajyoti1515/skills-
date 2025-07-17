@@ -1,0 +1,12 @@
+{
+  "name": "week0",
+  "version": "0.1.10",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Dibyajyoti Parida",
+  "license": "MIT",
+  "description": "A simple HTTP server using Node.js core modules to serve weather and air quality data."
+}
